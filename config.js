@@ -18,17 +18,17 @@ global.APIKeys = {
 // Other
 global.Prefix = 'Multi'
 global.modelMenu = 'locButton'
-global.owner = ['6289503657396']
-global.premium = ['6289503657396']
-global.meki = '6289503657396'
-global.ownerNumber = '6289503657396'
-global.packname = 'ZyyXtrime'
+global.owner = ['6285876810596']
+global.premium = ['6285876810596']
+global.meki = '6285876810596'
+global.ownerNumber = '6285876810596'
+global.packname = '2022'
 global.author = 'REALZI - BOT'
 global.sessionName = 'Fauzi'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.Mode = 'Public'
 global.mess = {
-    success: 'SUKSES!!.',
+    success: '❗Sukses.',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
@@ -36,17 +36,17 @@ global.mess = {
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: 'Loading...',
-    done: 'Done',
+    done: '✅Done',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
     wrongFormat: 'Perintah Salah!!\nSertakan Link setelah Command..',
-    example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'
+    example1: 'Welcome Baban Keluarga @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'
 ,
-    example2: 'Good Bye @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)', 
+    example2: 'Beban Keluarga Qut, Good Bye @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)', 
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12'
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 1000
+    free: 5
 }
 global.thumb = fs.readFileSync('./media/zyy.jpg')
 global.pathImg = fs.readFileSync('./media/gambar.jpg')
